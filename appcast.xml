@@ -11,11 +11,11 @@
             <sparkle:version>1.0.0</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <pubDate>Sat, 30 May 2026 06:24:01 +0000</pubDate>
+            <pubDate>Sat, 30 May 2026 06:36:52 +0000</pubDate>
             <enclosure
                 url="https://aariacarterweir.github.io/claude-fleet-dist/ClaudeFleet.zip"
-                sparkle:edSignature="ZbOpkb3amFV4xvyDMV/QvgrKiUxsVsQeEfY0uAd71963qYobPAaMqOOPQAoOWuFsd+DBpxYDoyweC1jfXTjvBg=="
-                length="1119398"
+                sparkle:edSignature="LdkgqpX/65HctIAFc5DQ61/GnW//JR/f67pNOJs0w9ZSr3gMt0TPmUOy7097k8CYi+1aB8vmjMttL7g1BDvQCA=="
+                length="1119397"
                 type="application/octet-stream" />
         </item>
     </channel>
