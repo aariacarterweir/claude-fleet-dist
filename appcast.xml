@@ -6,16 +6,16 @@
         <description>Most recent Claude Fleet release.</description>
         <language>en</language>
         <item>
-            <title>Version 2.3.4</title>
-            <link>https://github.com/aariacarterweir/claude-fleet/releases/tag/v2.3.4</link>
-            <sparkle:version>2.3.4</sparkle:version>
-            <sparkle:shortVersionString>2.3.4</sparkle:shortVersionString>
+            <title>Version 2.3.5</title>
+            <link>https://github.com/aariacarterweir/claude-fleet/releases/tag/v2.3.5</link>
+            <sparkle:version>2.3.5</sparkle:version>
+            <sparkle:shortVersionString>2.3.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <pubDate>Sun, 31 May 2026 03:47:09 +0000</pubDate>
+            <pubDate>Sun, 31 May 2026 04:27:15 +0000</pubDate>
             <enclosure
                 url="https://aariacarterweir.github.io/claude-fleet-dist/ClaudeFleet.zip"
-                sparkle:edSignature="cURJzK/0yCAveCaB5kqrcguV9NSoebCEgP8L4p2X4cgkeM59SSd1iZVB1z7bhFrQt39Qu5U8OYZGyz7QE+F3CQ=="
-                length="1279790"
+                sparkle:edSignature="qsAmsTcZno+YHxKfAqHB0dDUTkpWz6MC2VoTThjYeqm7p5prx+/CxpzIyQ+t0viS9VOU7ArGOgpHM/hzhjgnAg=="
+                length="1282056"
                 type="application/octet-stream" />
         </item>
     </channel>
