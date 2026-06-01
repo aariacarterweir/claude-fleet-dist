@@ -2,20 +2,20 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Claude Fleet</title>
-        <link>https://aariacarterweir.github.io/claude-fleet-dist/appcast.xml</link>
+        <link>https://digittl.github.io/claude-fleet-dist/appcast.xml</link>
         <description>Most recent Claude Fleet release.</description>
         <language>en</language>
         <item>
-            <title>Version 2.6.1</title>
-            <link>https://github.com/aariacarterweir/claude-fleet/releases/tag/v2.6.1</link>
-            <sparkle:version>2.6.1</sparkle:version>
-            <sparkle:shortVersionString>2.6.1</sparkle:shortVersionString>
+            <title>Version 2.6.2</title>
+            <link>https://github.com/digittl/claude-fleet/releases/tag/v2.6.2</link>
+            <sparkle:version>2.6.2</sparkle:version>
+            <sparkle:shortVersionString>2.6.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <pubDate>Mon, 01 Jun 2026 14:35:10 +0000</pubDate>
+            <pubDate>Mon, 01 Jun 2026 14:38:17 +0000</pubDate>
             <enclosure
-                url="https://aariacarterweir.github.io/claude-fleet-dist/ClaudeFleet.zip"
-                sparkle:edSignature="HfZrAoYchmH0x9KFlorHoYJiuz3qUgmfI80JjKo2hdzNEnvtrKF0ES3bRZMnwayfvlUkZxhqCu6wZITl+fQ0AQ=="
-                length="1399836"
+                url="https://digittl.github.io/claude-fleet-dist/ClaudeFleet.zip"
+                sparkle:edSignature="cwI5LvFQm2+IFgk2LHRJ9XzjNgOsveTLUZeONvmdNupBB7SuKTphGOCJo/MWEcJETa9qkG/T1/cd3KOXt1rgDw=="
+                length="1399837"
                 type="application/octet-stream" />
         </item>
     </channel>
