@@ -6,16 +6,16 @@
         <description>Most recent Claude Fleet release.</description>
         <language>en</language>
         <item>
-            <title>Version 2.6.2</title>
-            <link>https://github.com/digittl/claude-fleet/releases/tag/v2.6.2</link>
-            <sparkle:version>2.6.2</sparkle:version>
-            <sparkle:shortVersionString>2.6.2</sparkle:shortVersionString>
+            <title>Version 2.6.3</title>
+            <link>https://github.com/digittl/claude-fleet/releases/tag/v2.6.3</link>
+            <sparkle:version>2.6.3</sparkle:version>
+            <sparkle:shortVersionString>2.6.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <pubDate>Mon, 01 Jun 2026 14:38:17 +0000</pubDate>
+            <pubDate>Mon, 01 Jun 2026 14:43:48 +0000</pubDate>
             <enclosure
                 url="https://digittl.github.io/claude-fleet-dist/ClaudeFleet.zip"
-                sparkle:edSignature="cwI5LvFQm2+IFgk2LHRJ9XzjNgOsveTLUZeONvmdNupBB7SuKTphGOCJo/MWEcJETa9qkG/T1/cd3KOXt1rgDw=="
-                length="1399837"
+                sparkle:edSignature="z/k9sUW+BhczbxQFAh1osPpCqIj1ZrQrCnnMx3uBGgot28jGLEiYFuiOdAkT+hXzt48yXTB+Z8P8+levBMjOBQ=="
+                length="1397257"
                 type="application/octet-stream" />
         </item>
     </channel>
